@@ -1,0 +1,6 @@
+flaskr/ - A module to conatin app code and files
+
+test/ - A directory to contain test modules
+
+.venv - A virtual environment where Flask and other dependencies are installed
+
